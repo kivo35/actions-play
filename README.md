@@ -1,3 +1,3 @@
-# Basic Java Slenenium Automation Project
-### Basic aotomation projects
+# Actions project exercise
+### Actions in selenium webdriver
 
