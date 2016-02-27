@@ -3,7 +3,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
   <modelVersion>4.0.0</modelVersion>
   <name>Actions project</name>
   <groupId>com.sqa.kv.actions</groupId>
-  <artifactId>actions-project</artifactId>
+  <artifactId>actions-play</artifactId>
   <version>1.0-SNAPSHOT</version>
   <description>Actions project</description>
    	<dependencies>
